@@ -1,7 +1,7 @@
 tugas pak eka
 
 Pembelajaran Daring:
-Eksplorasi JS dan HTML
-Penggunaan GitHub
+1. Eksplorasi JS dan HTML
+2. Penggunaan GitHub
 
 (nurul fatimah no 16)
